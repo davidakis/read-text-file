@@ -8,7 +8,7 @@ Dopo aver decompresso la cartella, assicurati di installare le dipendenze necess
 `npm install`;
 
 Sempre da terminale dovrai digitare il nome dello script seguito dal percorso del file. Se il nostro file di testo è C:/Desktop/testo.txt il comando da digitare sarà questo:
-`node readfile.js C:/Desktop/testo.txt``
+`node readfile.js C:/Desktop/testo.txt`
 
 ## Note
 Se il comando viene lanciato senza alcun parametro o con la scritta `help` verrà visualizzata nel terminale l'istruziione per l'uso dello script e l'app sarà interrotta;
