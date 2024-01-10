@@ -1,0 +1,19 @@
+{
+  "name": "readfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readfile.js",
+  "scripts": {
+    
+  },
+  "keywords": [],
+  "author": "Davide Iandoli",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^23.2.0",
+    "nodemon": "^3.0.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
