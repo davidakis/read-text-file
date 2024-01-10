@@ -1,6 +1,6 @@
 # Readfile
 
-Piccolo progetto eseguibile da terminale con cui si può leggere un file di testo da cui estrarre link che vengono trascritti in un altro file di testo. 
+Piccolo progetto eseguibile da terminale con cui si può leggere un file di testo da cui estrarre link che vengono trascritti in un altro file di testo usando jsdom. 
 
 ## Istruzioni
 
@@ -11,6 +11,6 @@ Sempre da terminale dovrai digitare il nome dello script seguito dal percorso de
 `node readfile.js C:/Desktop/testo.txt`
 
 ## Note
-Se il comando viene lanciato senza alcun parametro o con la scritta `help` verrà visualizzata nel terminale l'istruziione per l'uso dello script e l'app sarà interrotta;
+Se il comando viene lanciato senza alcun parametro o con la scritta `help` verrà visualizzata nel terminale l'istruzione per l'uso dello script e l'app sarà interrotta;
 
-Se il file non esiste verrà visualizzato un avviso e l'applicazione verrà interrotta
+Se il file non esiste verrà visualizzato un avviso e l'applicazione verrà interrotta.
